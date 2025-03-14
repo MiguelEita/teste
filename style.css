@@ -16,10 +16,10 @@ body {
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 h1, h2, h3 {
-    color: #0056b3;
+    color: #000000;
 }
 header {
-    background: #0056b3;
+    background: #ffc0cb;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -29,4 +29,7 @@ footer {
     padding: 20px;
     background: #ddd;
     margin-top: 20px;
+}
+.accordion {
+    background-color: #ffc0cb;
 }
